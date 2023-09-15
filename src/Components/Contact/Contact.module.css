@@ -1,0 +1,19 @@
+.contact
+{
+    color: rgb(44, 62, 80);
+}
+.test{
+
+    flex-direction: column;
+  }
+  .btn{
+    background-color: #1abc9c;
+    border-radius: 100vh;
+    padding: 10px 24px;
+    transition: 0.4s;
+  }
+  .line{
+    background-color:  rgb(44 58 80);
+    height: 4px;
+    width: 80px;
+  }

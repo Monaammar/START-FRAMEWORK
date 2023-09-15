@@ -1,0 +1,19 @@
+.home {
+  background-color: #1abc9c;
+}
+.home_img {
+  width: 250px;
+}
+img {
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+}
+.test {
+  flex-direction: column;
+}
+.line {
+    background-color: white;
+    height: 4px;
+    width: 80px;
+  }

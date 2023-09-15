@@ -1,0 +1,11 @@
+.test {
+  flex-direction: column;
+}
+.about {
+  background-color: #1abc9c;
+}
+.line {
+  background-color: white;
+  height: 4px;
+  width: 80px;
+}
